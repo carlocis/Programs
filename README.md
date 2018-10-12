@@ -4,8 +4,8 @@ This folder contains the Mow It Now challenge.
 
 It contains:
 - Main.java, from which the program can be run
-- Mower.java, où est defini la classe Mower et ses methodes
-- DataParser.java, où sont defini des methodes pour le parsing des informations qui vienent d'un fichier .txt
-- Coordinates.java, pour definir les cordonné de mowers
-- Controls.java, où sont defini des methodes pour vérifier que les données en input sont du format correct
-- data*.java, qui sont utilisé comme test.
+- Mower.java, where the Mower class/object was defined with its methods
+- DataParser.java, where are defined methods for parsing text from a .txt file
+- Coordinates.java, to define the mowers' coordinates
+- Controls.java, to verify that the input parameters are of correct format
+- data*.java, which are used as a test.
